@@ -1,0 +1,15 @@
+{
+      "legalRepres": "梁文亚",
+      "businessLicense": "91620000MA72GR1U46",
+      "electricPowerLicense": "0000001-00001",
+      "EPLValidTime":"2009年10月30日",
+      "EPLInvalidTime":"2059年10月30日",
+      "turbineType":"风力发电机组",
+      "turbineDetailedType":"东汽FD77B/1500型机组",
+      "turbineNumber":"134",
+      "capacity":"201",
+      "maxOutput":"140.70",
+      "minOutput":"2.41",
+      "voltage":"400",
+      "dispatch":"甘肃中调"
+}
